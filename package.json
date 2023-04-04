@@ -1,0 +1,15 @@
+{
+  "name": "ConnectFour",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-jss": "^10.9.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html --open"
+  }
+}
